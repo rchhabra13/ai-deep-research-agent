@@ -28,8 +28,8 @@ A powerful research assistant that leverages OpenAI's Agents SDK and Firecrawl's
 
 1. Clone this repository:
    ```bash
-   git clone  https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd advanced_ai_agents/single_agent_apps/ai_deep_research_agent
+   git clone https://github.com/rchhabra13/ai_deep_research_agent.git
+   cd ai_deep_research_agent
    ```
 
 2. Install the required packages:
